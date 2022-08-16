@@ -632,8 +632,8 @@
 # banmessage - The message to give users when Z-lining them for connecting
 #              too much.
 #
-# banduration - The time period to ban users who connect to much for. Defaults
-#               to 10 minutes.
+# banduration - The time period to ban users who connect too much for. Defaults
+#               to 6 hours.
 #
 # ipv4cidr - The IPv4 CIDR mask (1-32) to treat connecting users as coming
 #            from the same host. Defaults to 32.
